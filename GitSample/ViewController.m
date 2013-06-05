@@ -18,6 +18,14 @@
 {
     [super viewDidLoad];
     NSLog(@"log one");
+    
+    NSLog(@"log 2");
+    NSLog(@"log 3");
+    NSLog(@"log 4");
+    NSLog(@"log 4");
+    NSLog(@"log 4");
+    NSLog(@"log 4");
+    NSLog(@"log 4");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
