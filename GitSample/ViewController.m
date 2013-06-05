@@ -26,6 +26,7 @@
     NSLog(@"log 4");
     NSLog(@"log 4");
     NSLog(@"log 4");
+    NSLog(@"ooo la la la");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
